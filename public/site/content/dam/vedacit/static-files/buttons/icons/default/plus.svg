@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>3BF41817-47F5-496A-BFE2-4AE5591EF6F2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Pac-primário" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-v2" transform="translate(-518.000000, -466.000000)" fill-rule="nonzero">
+            <g id="Banner" transform="translate(43.000000, 168.000000)">
+                <g id="Link" transform="translate(294.000000, 299.000000)">
+                    <g id="icone" transform="translate(182.000000, 0.000000)">
+                        <circle id="Oval" stroke="#000000" stroke-width="1.5" cx="12" cy="12" r="12"></circle>
+                        <path d="M17.3487659,11.1627618 L12.8371894,11.1627618 L12.8371894,6.6511609 C12.8371894,6.445639 12.55811,6 11.9999756,6 C11.4418412,6 11.1627618,6.4456634 11.1627618,6.6511609 L11.1627618,11.1627862 L6.6511609,11.1627862 C6.4456634,11.1627618 6,11.4418412 6,11.9999512 C6,12.5580612 6.4456634,12.837165 6.6511609,12.837165 L11.1627862,12.837165 L11.1627862,17.3487903 C11.1627862,17.5542634 11.4418412,17.9999512 12,17.9999512 C12.5581588,17.9999512 12.8372138,17.5542634 12.8372138,17.3487903 L12.8372138,12.837165 L17.3488391,12.837165 C17.5543122,12.837165 18,12.55811 18,11.9999512 C18,11.4417924 17.5542634,11.1627618 17.3487659,11.1627618 Z" id="Shape" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

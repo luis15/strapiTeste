@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>2B04540F-A77D-4075-882A-5939B7EEA65E</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-interna" transform="translate(-1132.000000, -11.000000)" fill-rule="nonzero">
+            <g id="Header">
+                <g id="Painel" transform="translate(295.000000, 10.000000)">
+                    <g id="Contraste" transform="translate(756.000000, 0.000000)">
+                        <g id="normal" transform="translate(81.000000, 1.000000)">
+                            <circle id="Oval" fill="#000000" cx="9" cy="9" r="9"></circle>
+                            <path d="M9,1 C4.58872727,1 1,4.58872727 1,9 C1,13.4112727 4.58872727,17 9,17 C13.4112727,17 17,13.4112727 17,9 C17,4.58872727 13.4112727,1 9,1 Z M9,15.5454545 L9,2.45454545 C12.6092727,2.45454545 15.5454545,5.39072727 15.5454545,9 C15.5454545,12.6092727 12.6092727,15.5454545 9,15.5454545 Z" id="Shape" fill="#FFB919"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

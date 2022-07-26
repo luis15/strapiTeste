@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50.023" viewBox="0 0 50 50.023">
+  <g id="icon-health-care" transform="translate(3.36 0.011)">
+    <rect id="grid-50x50" width="50" height="50" transform="translate(-3.36)" fill="#ffb919" opacity="0"/>
+    <g id="icon">
+      <path id="Path_519" data-name="Path 519" d="M.638,42.05l8.194,8.194h8.484L4.88,37.808Z" transform="translate(0 -0.882)" fill="#fff"/>
+      <path id="Path_520" data-name="Path 520" d="M20.092,42.219H29.61a2.219,2.219,0,0,0,0-4.438H23.481a3.051,3.051,0,0,1-2.257-1.041,6.534,6.534,0,0,0-5.055-2.057s-4.219,0-9.087,5.274" transform="translate(-0.123 -0.601)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+      <path id="Path_521" data-name="Path 521" d="M16.659,49.231H27.843a6.752,6.752,0,0,0,4.128-1.4L42.292,35.221a2.219,2.219,0,0,0-3.138-3.139l-4.334,4.334" transform="translate(-0.289 -0.545)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+      <path id="Path_522" data-name="Path 522" d="M4.806,37.808.638,41.977l8.051,8.052h8.338Z" transform="translate(-0.011 -0.655)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+      <path id="Path_523" data-name="Path 523" d="M26.278,5.149v13.5h-13.5a4.5,4.5,0,1,1,0-8.99h4.511V5.149a4.5,4.5,0,1,1,8.99,0" transform="translate(-0.143 -0.011)" fill="#fff"/>
+      <path id="Path_524" data-name="Path 524" d="M26.278,5.149v13.5h-13.5a4.5,4.5,0,1,1,0-8.99h4.511V5.149a4.5,4.5,0,1,1,8.99,0Z" transform="translate(-0.143 -0.011)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+      <path id="Path_525" data-name="Path 525" d="M35.619,14.3a4.509,4.509,0,0,1-4.511,4.511H26.6V9.819h4.51A4.5,4.5,0,0,1,35.619,14.3Z" transform="translate(-0.461 -0.17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+      <path id="Path_526" data-name="Path 526" d="M26.437,18.968v4.511a4.5,4.5,0,1,1-8.99,0V18.968Z" transform="translate(-0.302 -0.329)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.276"/>
+    </g>
+  </g>
+</svg>
